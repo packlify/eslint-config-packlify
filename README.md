@@ -1,8 +1,12 @@
 # eslint-config-packlify
 
+## Install
+
 ```bash
 bun add eslint-config-packlify -d
 ```
+
+## Usage
 
 `.eslintrc`
 
@@ -12,7 +16,7 @@ bun add eslint-config-packlify -d
 }
 ```
 
-or
+### or
 
 ```javascript
 // .eslintrc.js
